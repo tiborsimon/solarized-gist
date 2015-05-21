@@ -3,7 +3,7 @@
 This project allows you to theme your embedded Gists with the Solarized theme.
 
 [<h3>Go to the corresponding article</h3>](http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists/)
-[<h3>Join the discussion</h3>](http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists/#discussion)
+<a href="http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists/#discussion" target="_blank"><h3>Join the discussion</h3></a>
 
 ## Usage
 
