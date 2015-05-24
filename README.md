@@ -4,9 +4,7 @@ This project allows you to theme your embedded Gists with the Solarized theme.
 
 <img src="http://tiborsimon.github.io/images/solarized-gist-demo-image.png" />
 
-<a href="http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists/" target="_blank"><img src="http://tiborsimon.github.io/images/corresponding-article.png" /></a>
-
-<a href="http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists\#discussion" target="_blank"><img src="http://tiborsimon.github.io/images/join-to-the-discussion.png" /></a>
+<a href="http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists/" target="_blank"><img src="http://tiborsimon.github.io/images/corresponding-article.png" /></a><a href="http://tiborsimon.github.io/tools/solarized-theme-for-embedded-gists\#discussion" target="_blank"><img src="http://tiborsimon.github.io/images/join-to-the-discussion.png" /></a>
 
 ## Usage
 
