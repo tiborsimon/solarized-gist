@@ -9,7 +9,7 @@ This project allows you to theme your embedded Gists with the Solarized theme.
 ## How to use the themes?
 
 - __Using regular CSS__ - copy the content of the `css` folder to your site's CSS folder and link it to your pages.
-- __Using css preprocessors__ - copy the content of the `sass` folder to your CSS files and link it to your pages.
+- __Using CSS preprocessors__ - copy the content of the `sass` folder to your CSS files and link it to your pages.
 
 You are done. The included CSS files will override the CSS rules of your embedded Gist snippets.
 
