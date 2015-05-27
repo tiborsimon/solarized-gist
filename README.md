@@ -17,4 +17,11 @@ And you are done. The included CSS files will override the CSS rules of your emb
 
 Feel free to fork and contribute to this project, as the CSS class mapping between Pygments and the Gist CSS may not cover your particular needs.
 
+## License
+
+This project is under the __MIT license__. 
+See the included license file for further details.
+
+
+
 
