@@ -11,7 +11,9 @@
 
 And you are done. The included CSS files will override the CSS rules of your embedded Gist snippets.
 
+## Create static CSS from SASS
 
+If you want to create a custom color theme without replacing all the hard coded color codes in one of the static CSS files, there is a solution for you. You can modify the SASS variables according to your needs (even though your site isn't supporting SASS), then you can replace these variables in the generic SASS style sheet, resulting a fully static CSS file. Find the linked `sass2css.py` script to run the conversion.
 
 ## Contribution
 
