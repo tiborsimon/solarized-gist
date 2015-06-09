@@ -1,18 +1,47 @@
+@mixin scrollbars($size, $foreground-color, $background-color: mix($foreground-color, white,  50%)) {
+
+  // For Google Chrome
+  ::-webkit-scrollbar {
+      width:  $size;
+      height: $size;
+  }
+
+  ::-webkit-scrollbar-thumb {
+      background: $foreground-color;
+      @include rounded(0 0 5px 5px);
+  }
+
+  ::-webkit-scrollbar-track {
+      background: $background-color;
+      @include rounded(0 0 5px 5px);
+  }
+
+  // For Internet Explorer
+  body {
+    scrollbar-face-color: $foreground-color;
+    scrollbar-track-color: $background-color;
+  }
+}
+
 .gist .gist-file {
   background-color: transparent !important;
   border: none !important;
   background-color: #fdf6e3;
-  @include rounded(6px);
+  @include scrollbars(.5em, #d5cdb4, #eee8d5);
 }
 
 .gist {
   ::-moz-selection {
-    background-color: #dc322f;
-    color: #eee8d5;
+    background-color: #eee8d5;
+    color: #268bd2;
   }
   ::selection {
-    background-color: #dc322f;
-    color: #eee8d5;
+    background-color: #eee8d5;
+    color: #268bd2;
+  }
+
+  table {
+    border-radius: 0px !important;  
   }
 
   td {
@@ -22,18 +51,18 @@
   .highlight {
     border-collapse: separate;
     border-spacing: 0;
-    @include rounded(6px);
-    @include box-shadow(0 2px 5px rgba(0, 0, 0, 0.09));
     overflow: hidden;
     margin-bottom: 25px;
-    border: 1px solid #d3d3d3;
+    border: none !important;
   }
 
   .gist-data {
-    overflow: visible !important;
+    overflow-x: auto !important;
     word-wrap: normal !important;
     background-color: transparent !important;
-    border-bottom: none !important;
+    @include rounded(6px);
+    border: 1px solid #d3d3d3;
+    @include box-shadow(0 2px 5px rgba(0, 0, 0, 0.09));
   }
 
   .line-data {
