@@ -1,8 +1,22 @@
 # Solarized Embedded Gists
 
-<img src="http://tiborsimon.github.io/images/solarized-gist/solarized-gist-demo-image.png" />
+<a title="Latest version" href="https://github.com/tiborsimon/solarized-gist/releases/latest" target="_blank">
+   <img src="https://img.shields.io/badge/version-v1.2-green.svg?style=flat" />
+</a>
+<a title="Goto article" href="http://tiborsimon.github.io/web/solarized-theme-for-embedded-gists/" target="_blank">
+   <img src="https://img.shields.io/badge/article-read-blue.svg?style=flat" />
+</a>
+<a title="Goto discussion" href="http://tiborsimon.github.io/web/solarized-theme-for-embedded-gists/#discussion" target="_blank">
+   <img src="https://img.shields.io/badge/discussion-join-orange.svg?style=flat" />
+</a>
+<a title="Demo" href="http://tiborsimon.github.io/web/solarized-theme-for-embedded-gists#demo" target="_blank">
+   <img src="http://img.shields.io/badge/license-MIT-green.svg?style=flat" />
+</a>
+<a title="License" href="#license">
+   <img src="https://img.shields.io/badge/demo-try-green.svg?style=flat" />
+</a>
 
-<a href="http://tiborsimon.github.io/web/solarized-theme-for-embedded-gists/" target="_blank"><img src="http://tiborsimon.github.io/images/core/corresponding-article.png" /></a>   <a href="http://tiborsimon.github.io/web/solarized-theme-for-embedded-gists#discussion" target="_blank"><img src="http://tiborsimon.github.io/images/core/join-to-the-discussion.png" /></a>   <a href="http://tiborsimon.github.io/web/solarized-theme-for-embedded-gists#demo" target="_blank"><img src="http://tiborsimon.github.io/images/core/live-demo.png" /></a>
+<img src="http://tiborsimon.github.io/images/solarized-gist/solarized-gist-demo-image.png" />
 
 ## How to use this theme?
 
